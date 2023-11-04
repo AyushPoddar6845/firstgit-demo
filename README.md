@@ -1,4 +1,4 @@
 # firstgit-demo
 This is my first actual Git repository.
 <br>
-Author - Ayush Poddar
+Author - Ayush Poddar's Github
